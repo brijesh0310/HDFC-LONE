@@ -33,9 +33,9 @@
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-        <h2>Contact Us : 12375 67890</h2>
+        <h2>Contact Us : 82384 16777</h2>
         <h3>HDFC Loan Systems</h3>
-        <h3>Mumbai, Maharashtra, India</h3>
+        <h3>Rajkot,Gjurat, India</h3>
     </form>
 </body>
 </html>
